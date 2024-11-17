@@ -1,3 +1,2 @@
-# santhosh
-iam frome erode 
-iam studing 3rd bsc computter science 
+print("sequence of the numbers form 20to50")
+print (sqe(20:50))
